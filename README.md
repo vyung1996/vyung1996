@@ -1,4 +1,4 @@
-### Hi there, I'm Victor Yung 👋
+### 👋 Hi there, I'm Victor Yung
 
 🎓 I graduated from Simon Fraser University with a major in Statistics and currently pursuing a Masters in Data Science <br/>
 📈 I am passionate about utilizing data analytics to tackle real-world challenges in order to drive informed decision-making <br/>
